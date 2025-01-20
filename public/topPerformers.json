@@ -1,0 +1,89 @@
+{
+    "topPerformers": [
+      {
+        "id": "perf_1",
+        "name": "Kajal Raj (काजल राज)",
+        "tag": "KajalRaj",
+        "profilePicture": "https://scontent.fhyd10-1.fna.fbcdn.net/v/t39.30808-6/438303708_498615202732572_5537622887282268213_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=jjNwHr0NVvwQ7kNvgFX3UKg&_nc_zt=23&_nc_ht=scontent.fhyd10-1.fna&_nc_gid=ArhZQvWavh1jJMw3cwodrAp&oh=00_AYAtjnPVdiaWMyY65wi8z3ml-jqBrCQQO9zRxoO3VFVigA&oe=67905BC9",
+        "description": "काजल राज एक प्रतिभाशाली आर्केस्ट्रा डांसर हैं, जो अपने मनमोहक प्रदर्शन और अद्वितीय नृत्य शैली के लिए प्रसिद्ध हैं। उनकी हर प्रस्तुति में दर्शकों को मंत्रमुग्ध करने की क्षमता है।",
+        "socialLinks": {
+          "youtube": "https://www.youtube.com/channel/UC5pQJ6GmlPb1jtuLfsejX0A",
+          "instagram": "https://www.instagram.com/kajalraj9097/?hl=en",
+          "facebook": "https://www.facebook.com/groups/kajalraj/"
+        }
+      },
+      {
+        "id": "perf_2",
+        "name": "Preeti Paswan (प्रीति पासवान)",
+        "tag": "PreetiPaswan",
+        "profilePicture": "https://scontent.fhyd10-2.fna.fbcdn.net/v/t39.30808-6/462722287_939311794900484_3701473028163718971_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=dJXtDcfJAiEQ7kNvgEEN_hZ&_nc_zt=23&_nc_ht=scontent.fhyd10-2.fna&_nc_gid=AKFIOCaF3tH-LQfeZkLVRh2&oh=00_AYB6-uBwrwZclivL_fJZxLy58TJF1nSxC1J2GYvVk5Lrng&oe=67904C7E",
+        "description": "प्रीति पासवान एक प्रसिद्ध आर्केस्ट्रा डांसर हैं, जो अपनी आकर्षक अदाओं और मंच पर ऊर्जा से दर्शकों का दिल जीत लेती हैं। उनकी हर प्रस्तुति में एक विशेष जादू होता है।",
+        "socialLinks": {
+          "youtube": "",
+          "instagram": "https://www.instagram.com/pritttysherni_official",
+          "facebook": "https://www.facebook.com/profile.php?id=100087326445809&ref=xav_ig_profile_web"
+        }
+      },
+      {
+        "id": "perf_3",
+        "name": "Maya Magar (माया मगर)",
+        "tag": "MayaMagar",
+        "profilePicture": "https://scontent.fhyd10-1.fna.fbcdn.net/v/t39.30808-6/470229502_535630532958604_6171689450815424539_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=lW6gKbgXKakQ7kNvgHShaS2&_nc_zt=23&_nc_ht=scontent.fhyd10-1.fna&_nc_gid=AipCqzwwh63DYvIgDPrEp0Q&oh=00_AYCU5sJko554cGfmiwHAl-5s66_La4kxptf8Dh9kEHZbow&oe=6791389A",
+        "description": "माया मगर एक उभरती हुई आर्केस्ट्रा डांसर हैं, जो अपनी अनोखी नृत्य शैली और आत्मविश्वास भरे प्रदर्शन के लिए जानी जाती हैं। उनका हर प्रदर्शन दर्शकों को मंत्रमुग्ध कर देता है।",
+        "socialLinks": {
+          "youtube": "",
+          "instagram": "https://www.instagram.com/its.maya_magar/?hl=en",
+          "facebook": "https://www.facebook.com/mayamagar88/"
+        }
+      },
+      {
+        "id": "perf_4",
+        "name": "Angel Liza (एंजेल लिज़ा)",
+        "tag": "AngelLiza",
+        "profilePicture": "https://scontent.fhyd10-2.fna.fbcdn.net/v/t39.30808-6/385711775_728753125754004_1372150964627042451_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=aPpGNqGIRWAQ7kNvgEC5-kn&_nc_zt=23&_nc_ht=scontent.fhyd10-2.fna&_nc_gid=A5MJY95hxGVnn0DuQSCsoQd&oh=00_AYAGvEJmMN1eS8Ux73yDkv96UZlf3dQ0kZpm26nDNypV-g&oe=67913972",
+        "description": "एंजेल लिज़ा एक प्रतिभाशाली डांसर हैं, जो अपने अद्वितीय नृत्य कौशल और मंच पर अपनी उपस्थिति से दर्शकों को मंत्रमुग्ध करती हैं। उनका हर प्रदर्शन एक नई कहानी बयां करता है।",
+        "socialLinks": {
+          "youtube": "",
+          "instagram": "https://www.instagram.com/angelliza1234/",
+          "facebook": "https://www.facebook.com/p/Angel-Liza-61551944819588/"
+        }
+      },
+      {
+        "id": "perf_5",
+        "name": "Manisha Jha (मनीषा झा)",
+        "tag": "ManishaJha",
+        "profilePicture": "https://scontent.fhyd10-2.fna.fbcdn.net/v/t39.30808-6/471493094_608329151850998_2316710064027009206_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=95bFxmMhapwQ7kNvgHK4qc5&_nc_zt=23&_nc_ht=scontent.fhyd10-2.fna&_nc_gid=Aja6yD2pOvOSpIG0IH7WHbI&oh=00_AYAkL_voJa9MKQpnppbjNZM6Fg93bNU7FYbyfdPRMBb_eg&oe=67911C28",
+        "description": "मनीषा झा एक बहुपरकारी कलाकार हैं, जो मनोरंजन वीडियो और रील्स के माध्यम से अपने नृत्य कौशल का प्रदर्शन करती हैं। उनकी हर प्रस्तुति दर्शकों के लिए एक नई ऊर्जा लाती है।",
+        "socialLinks": {
+          "youtube": "",
+          "instagram": "https://www.instagram.com/angelliza1234/",
+          "facebook": "https://www.facebook.com/Manishajha01/"
+        }
+      },
+      {
+        "id": "perf_6",
+        "name": "Trisha Kar (त्रिशा)",
+        "tag": "TrishaKar",
+        "profilePicture": "https://scontent.fhyd10-1.fna.fbcdn.net/v/t39.30808-6/260707054_287357116642315_5021163161037437731_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=2285d6&_nc_ohc=Va5OmrgmbJYQ7kNvgH1K_Oy&_nc_zt=23&_nc_ht=scontent.fhyd10-1.fna&_nc_gid=ASuuhc7n57c3PQK7sac3MpG&oh=00_AYBqn5cy51xnBanAUmMvcuw9n0qvWY0mwce7bG3EYZ_itg&oe=67910BFB", 
+        "description": "त्रिशा कर एक उभरती हुई कलाकार हैं, जो अपने नृत्य और कला के माध्यम से दर्शकों का मनोरंजन करती हैं। उनकी रचनात्मकता और ऊर्जा हर प्रदर्शन में झलकती है।",
+        "socialLinks": {
+          "youtube":"https://www.youtube.com/@trishastyle5634", 
+          "instagram":"https://www.instagram.com/trishakarmadhuofficial/?hl=en", 
+          "facebook":""
+         }
+      },
+      {
+        "id": "perf_7",
+        "name": "Kajal Raghwani (काजल राघवानी)",
+        "tag": "KajalRaghwani",
+        "profilePicture": "https://scontent.fhyd1-2.fna.fbcdn.net/v/t39.30808-6/461655545_3763698343920898_8724611979462978050_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=3Hp8fJIKAKEQ7kNvgFztmm1&_nc_zt=23&_nc_ht=scontent.fhyd1-2.fna&_nc_gid=ABj4-YnwrDMSbUlmEovDOrY&oh=00_AYD9juXjg0x3bJ3v66q_G_yRSv4SNyyDlee9-b-wmzVDcA&oe=67929B82", 
+        "description": "काजल राघवानी एक प्रसिद्ध भोजपुरी फिल्म अभिनेत्री हैं, जिन्होंने 2013 में 'रिहाई' फिल्म से अपने करियर की शुरुआत की। वह अपनी अदाकारी और नृत्य कौशल के लिए जानी जाती हैं और अब तक 50 से अधिक भोजपुरी फिल्मों में काम कर चुकी हैं। काजल की जोड़ी भोजपुरी सुपरस्टार खेसारी लाल यादव के साथ बहुत लोकप्रिय है। उनके डांस वीडियो 'छलकता हमरो जवनिया ए राजा' को यूट्यूब पर करोड़ों बार देखा गया है। काजल सोशल मीडिया पर भी सक्रिय हैं और अपने प्रशंसकों के साथ जुड़ी रहती हैं।",
+        "socialLinks": {
+          "youtube":"https://www.youtube.com/@trishastyle5634", 
+          "instagram":"https://www.instagram.com/kajalraghwani/?hl=en", 
+          "facebook":""
+         }
+      }
+     ]
+  }
+  

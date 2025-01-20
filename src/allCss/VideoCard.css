@@ -1,0 +1,10 @@
+.youtube-icon-link {
+    color: #ff0000; /* YouTube red color */
+    text-decoration: none;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .youtube-icon-link:hover {
+    transform: scale(1.1); /* Slight zoom effect on hover */
+  }
+  
