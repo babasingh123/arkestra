@@ -17,7 +17,7 @@ function ArkestraFooter() {
                 width={150}
                 height={150}
               />
-              <p>Top Arkestra Videos</p>
+              <p>Everything about arkestra</p>
             </Stack>
           </Col>
           <Col>
@@ -25,17 +25,14 @@ function ArkestraFooter() {
               {/* <p>Useful Links</p> */}
               <Nav.Link as={Link} to="/">Home</Nav.Link>
               <Nav.Link as={Link} to="/allVideos">Videos</Nav.Link>
-              <Nav.Link as={Link} to="/about">About</Nav.Link>
-              <Nav.Link as={Link} to="/about">Contact</Nav.Link>
+              <Nav.Link as={Link} to="/arkestra">What is Arkestra</Nav.Link>
             </Nav>
           </Col>
           <Col>
           <Nav className="flex-column fs-5">
-              {/* <p>Useful Links</p> */}
-              <Nav.Link as={Link} to="/">Home</Nav.Link>
-              <Nav.Link as={Link} to="/allVideos">Videos</Nav.Link>
               <Nav.Link as={Link} to="/about">About</Nav.Link>
               <Nav.Link as={Link} to="/about">Contact</Nav.Link>
+              <Nav.Link as={Link} to="/about">Disclaimer</Nav.Link>
             </Nav>
           </Col>
         </Row>

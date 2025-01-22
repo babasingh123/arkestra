@@ -27,6 +27,7 @@ const ArkestraNavbar = () => {
           >
             <Nav.Link as={Link} to="/">Home</Nav.Link>
             <Nav.Link as={Link} to="/allVideos">Videos</Nav.Link>
+            <Nav.Link as={Link} to="/allNews">News</Nav.Link>
             <Nav.Link as={Link} to="/arkestra">What is Arkestra</Nav.Link>
             <Nav.Link as={Link} to="/about">About</Nav.Link>
           </Nav>
