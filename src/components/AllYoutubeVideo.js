@@ -7,7 +7,7 @@ import VideoCard from './VideoCard';
 import '../allCss/ArkestraHomeCss.css';
 import AdBanner from './AdBanner';
 
-const TopTrendingYoutubeVideo = () => {
+const AllYoutubeVideo = () => {
   const [topVideos, setTopVideos] = useState([]);
   const [error, setError] = useState(null);
   const [loading, setLoading] = useState(false);
@@ -31,7 +31,7 @@ const TopTrendingYoutubeVideo = () => {
   return (
     <Container>
       <h2 className="mb-4" style={{ margin: '35px 0px', marginTop: '90px' }}>
-        Top Trending YouTube Videos
+        All YouTube Videos
       </h2>
 
       {loading && <div className="text-center">Loading videos...</div>}
@@ -44,12 +44,12 @@ const TopTrendingYoutubeVideo = () => {
           </Col>
         ))}
       </Row>
-      <AdBanner
+      {/* <AdBanner
   adSlot="3661764630"
   style={{ display: 'block', width: '100%', height: '250px' }}
-/>
+/> */}
     </Container>
   );
 };
 
-export default TopTrendingYoutubeVideo;
+export default AllYoutubeVideo;

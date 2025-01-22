@@ -1,0 +1,36 @@
+{
+  "reels": [
+    {
+      "performer": "Kajal Raj",
+      "tag": "KajalRaj",
+      "reels": [
+        "https://www.instagram.com/p/DDkPy4RyA2_/?hl=en",
+        "https://www.instagram.com/p/DDeDk7aSITd/?hl=en"
+      ]
+    },
+    {
+      "performer": "Preeti Paswan",
+      "tag": "PreetiPaswan",
+      "reels": [
+        "https://www.instagram.com/p/DCs0vT0I9XO/?hl=en",
+        "https://www.instagram.com/p/DBo-5RLt-_H/?hl=en"
+      ]
+    },
+    {
+      "performer": "Maya Magar",
+      "tag": "Maya Magar",
+      "reels": [
+        "https://www.instagram.com/reel/C5H1Abcdefg/"
+      ]
+    },
+    {
+        "performer": "Angel Liza",
+        "tag": "AngelLiza",
+        "reels": [
+          "https://www.instagram.com/p/C9HaHewoeQd/",
+          "https://www.instagram.com/p/C8HrbEsSI94/",
+          "https://www.instagram.com/p/C7l1zP4SUrW/"
+        ]
+    }
+  ]
+}

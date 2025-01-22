@@ -1,0 +1,105 @@
+/* Fancy Separator */
+.fancy-separator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px 0;
+    position: relative;
+  }
+  
+  .fancy-separator hr {
+    flex: 1;
+    border: none;
+    border-top: 2px solid black;
+    margin: 0 10px;
+  }
+  
+  .fancy-separator span {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+  }
+  
+  /* Carousel Styling */
+  .arkestra-carousel .carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  .arkestra-carousel .carousel-caption h3 {
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+  
+  .arkestra-carousel .carousel-caption p {
+    font-size: 1rem;
+  }
+
+  .reels-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .reel-card {
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .reel-card h3 {
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  
+  .news-card {
+    background: #fff;
+    border: 2px solid #007bff; /* Add border */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow for depth */
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Animation for hover effect */
+  }
+  
+  .news-card:hover {
+    transform: translateY(-5px); /* Slightly lift on hover */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Enhance shadow on hover */
+    border-color: #0056b3; /* Change border color on hover */
+  }
+  
+  .news-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .news-card h4 {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 8px;
+  }
+  
+  .news-card p {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 12px;
+  }
+  
+  .news-card a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .news-card a:hover {
+    text-decoration: underline;
+  }
+  

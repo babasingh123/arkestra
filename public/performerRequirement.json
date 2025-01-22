@@ -1,0 +1,85 @@
+{
+    "id": "perf_6",
+    "name": "Trisha Kar (त्रिशा)",
+    "tag": "TrishaKar",
+    "profilePicture": "https://scontent.fhyd10-1.fna.fbcdn.net/v/t39.30808-6/260707054_287357116642315_5021163161037437731_n.jpg",
+    "description": {
+      "short": "त्रिशा कर एक उभरती हुई कलाकार हैं, जो अपने नृत्य और कला के माध्यम से दर्शकों का मनोरंजन करती हैं।",
+      "long": "त्रिशा कर भोजपुरी आर्केस्ट्रा जगत की एक प्रसिद्ध कलाकार हैं। उनकी नृत्य शैली, अनोखे परिधान, और उत्साहपूर्ण प्रदर्शन उन्हें दर्शकों के बीच अलग बनाते हैं।"
+    },
+    "location": "Patna, Bihar",
+    "associatedGroup": "Chand Babu Arkestra",
+    "socialLinks": {
+      "youtube": "https://www.youtube.com/@trishastyle5634",
+      "instagram": "https://www.instagram.com/trishakarmadhuofficial/?hl=en",
+      "facebook": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "media": {
+      "videos": [
+        {
+          "id": "vid_10",
+          "title": "Duno Baloon Dhuk Dhuk Kare - Trisha Kar",
+          "platform": "YouTube",
+          "embedLink": "https://www.youtube.com/embed/BMMwuwVSng0?si=Nc4MwGfIJ31SWdwT",
+          "directLink": "https://www.youtube.com/watch?v=BMMwuwVSng0",
+          "description": "Trisha Kar's captivating performance on 'Duno Baloon Dhuk Dhuk Kare' by Khesari Lal Yadav and Shilpi Raj.",
+          "views": 500000,
+          "likes": 20000,
+          "duration": "4:35",
+          "uploadDate": "2025-01-01"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "img_1",
+          "url": "https://example.com/images/trisha_1.jpg",
+          "caption": "Trisha Kar during a live performance."
+        },
+        {
+          "id": "img_2",
+          "url": "https://example.com/images/trisha_2.jpg",
+          "caption": "Backstage moments with Trisha Kar."
+        }
+      ]
+    },
+    "performanceStats": {
+      "totalPerformances": 120,
+      "mostPopularSong": "Duno Baloon Dhuk Dhuk Kare",
+      "fanFavorites": [
+        "Jable Jagal Bani",
+        "Duno Baloon Dhuk Dhuk Kare"
+      ]
+    },
+    "contactInfo": {
+      "email": "contact@trishakar.com",
+      "phone": "+91-9876543210",
+      "bookingLink": "https://example.com/booking/trishakar"
+    },
+    "fanEngagement": {
+      "testimonials": [
+        "Trisha Kar's performances are electrifying!",
+        "A true star of Bhojpuri Arkestra!"
+      ],
+      "followers": {
+        "youtube": 1200000,
+        "instagram": 800000,
+        "facebook": 500000
+      }
+    },
+    "upcomingEvents": [
+      {
+        "id": "event_1",
+        "title": "Bhojpuri Arkestra Night",
+        "date": "2025-02-10",
+        "location": "Patna, Bihar",
+        "description": "A special night featuring live performances by Trisha Kar and other artists."
+      }
+    ],
+    "metadata": {
+      "createdAt": "2025-01-21",
+      "updatedAt": "2025-01-21"
+    }
+  }
+  

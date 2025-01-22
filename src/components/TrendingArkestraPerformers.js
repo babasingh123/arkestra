@@ -6,8 +6,8 @@
         import Col from 'react-bootstrap/Col';
         import Button from 'react-bootstrap/Button';
         import { Link } from 'react-router-dom'; // For navigation if needed
-        import '../allCss/ArkestraHomeCss.css'
-        import '../allCss/MovingText.css'
+        import '../allCss/ArkestraHomeCss.css';
+        import '../allCss/MovingText.css';
         import AdBanner from './AdBanner';
 
             const TrendingArkestraPerformers = () => {
@@ -31,6 +31,15 @@
                 fetchTopPerformers();
                 }, []);
 
+                const getImage = (imageName) => {
+                    try {
+                      return require(`../assets/images/${imageName}`);
+                    } catch (error) {
+                      console.error('Image not found:', imageName);
+                    //   return require('../assets/images/default.png'); // Fallback image
+                    }
+                  };
+
                 return (
                     <Container>
                     <h2 className="mb-4" style={{ margin: '35px 0px', marginTop: '90px' }}>Top Trending Performers</h2> 
@@ -46,7 +55,7 @@
                 {topPerformer.profilePicture && (
                     <Card.Img
                     variant="top"
-                    src={topPerformer.profilePicture}
+                    src={getImage(topPerformer.profilePicture)}
                     alt={topPerformer.name}
                     className="category-image"
                     />
@@ -65,10 +74,6 @@
                         </Col>
                     ))}
                     </Row>
-                    <AdBanner
-  adSlot="3661764630"
-  style={{ display: 'block', width: '100%', height: '250px' }}
-/>
                 </Container>
                 );
             };

@@ -8,7 +8,7 @@ function ArkestraFooter() {
     <footer>
       <Container fluid>
         <Row className="bg-body-tertiary">
-          <Col className="mx-5">
+          <Col className="flex-column fs-5">
             <Stack>
               <Image
                 src={logo}
@@ -22,10 +22,20 @@ function ArkestraFooter() {
           </Col>
           <Col>
             <Nav className="flex-column fs-5">
-              <p>Useful Links</p>
+              {/* <p>Useful Links</p> */}
               <Nav.Link as={Link} to="/">Home</Nav.Link>
-              <Nav.Link as={Link} to="/trending">Trending</Nav.Link>
+              <Nav.Link as={Link} to="/allVideos">Videos</Nav.Link>
               <Nav.Link as={Link} to="/about">About</Nav.Link>
+              <Nav.Link as={Link} to="/about">Contact</Nav.Link>
+            </Nav>
+          </Col>
+          <Col>
+          <Nav className="flex-column fs-5">
+              {/* <p>Useful Links</p> */}
+              <Nav.Link as={Link} to="/">Home</Nav.Link>
+              <Nav.Link as={Link} to="/allVideos">Videos</Nav.Link>
+              <Nav.Link as={Link} to="/about">About</Nav.Link>
+              <Nav.Link as={Link} to="/about">Contact</Nav.Link>
             </Nav>
           </Col>
         </Row>

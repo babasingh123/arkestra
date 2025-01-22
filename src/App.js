@@ -6,9 +6,11 @@ import ArkestraHome from './components/ArkestraHome.js';
 import ArkestraNavbar from './components/ArkestraNavbar.js';
 import PerformerProfile from './components/PerformerProfile.js';
 import ScrollToTop from './components/ScrollToTop.js';
-import TopTrendingYoutubeVideo from './components/TopTrendingYoutubeVideo.js';
+import AllYoutubeVideo from './components/AllYoutubeVideo.js';
 import PageNotFound from './components/PageNotFound.js'; // Optional 404 page
 import ArkestraInfo from './components/ArkestraInfo.js';
+import LanguageWise from './components/LanguageWise.js';
+import AllNews from './components/AllNews.js';
 
 function App() {
   return (
@@ -21,8 +23,10 @@ function App() {
             <Route path="/" element={<ArkestraHome />} />
             <Route path="/performer/:tag" element={<PerformerProfile />} />
             <Route path="/about" element={<AboutArkestra />} />
-            <Route path="/trending" element={<TopTrendingYoutubeVideo />} />
+            <Route path="/allVideos" element={<AllYoutubeVideo />} />
             <Route path="/arkestra" element={<ArkestraInfo />} />
+            <Route path="/languages/:language" element={<LanguageWise />} />
+            <Route path="/allNews" element={<AllNews />} />
             <Route path="*" element={<PageNotFound />} />
           </Routes>
         </main>

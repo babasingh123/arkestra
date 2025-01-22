@@ -3,6 +3,7 @@
         {
             "id": "vid_1",
             "tag": "KajalRaj",
+            "language": "Bhojpuri",
             "title": "हम कुच कुच खाएम चटनीया ए जान - Kajal Raj",
             "platform": "Youtube",
             "embedLink": "https://www.youtube.com/embed/eQg9e6KwBdo?si=SsgrJVwWCP4a8x9s",
@@ -34,6 +35,7 @@
         {
             "id": "vid_2",
             "tag": "PreetiPaswan",
+            "language": "Bhojpuri",
             "title": "बलमुआ के बल्लम - Preeti Paswan",
             "platform": "Youtube",
             "embedLink": "https://www.youtube.com/embed/DxRreJTEiuM?si=RhzPWVhS1L69TAF7",
@@ -65,6 +67,7 @@
         {
             "id": "vid_3",
             "tag": "PreetiPaswan",
+            "language": "Bhojpuri",
             "title": "Balamua maare lagal - Preeti Paswan",
             "platform": "Youtube",
             "embedLink": "https://www.youtube.com/embed/2pqXWUAUnOQ?si=j1TkuVAwU9upbX1P",
@@ -96,6 +99,7 @@
         {
             "id": "vid_4",
             "tag": "KajalRaj",
+            "language": "Bhojpuri",
             "title": "सखी पियवा दुलारे आए हाए रे सखी पियवा दुलारे - Kajal Raj",
             "platform": "Youtube",
             "embedLink": "https://www.youtube.com/embed/NeL7D0RJwPM",
@@ -127,6 +131,7 @@
         {
             "id": "vid_5",
             "tag": "KajalRaj",
+            "language": "Bhojpuri",
             "title": "हम संतोष पागल ना हई - Kajal Raj",
             "platform": "Youtube",
             "embedLink": "https://www.youtube.com/embed/gPpC9cIUZZo?si=CiXtENdxCcdkOoFA",
@@ -158,6 +163,7 @@
         {
             "id": "vid_6",
             "tag": "MayaMagar",
+            "language": "Bhojpuri",
             "title": "ढोढ़ी पर चटनी मलइया balam Kariya dabave - Maya Magar",
             "platform": "Youtube",
             "embedLink": "https://www.youtube.com/embed/KC6X3D0oDvg?si=Xxgs4hN8U1yutbjB",
@@ -189,6 +195,7 @@
         {
             "id": "vid_7",
             "tag": "MayaMagar",
+            "language": "Bhojpuri",
             "title": "Misir Ji Tu Ta Bada Bada Thanda - Maya Magar",
             "platform": "Youtube",
             "embedLink": "https://www.youtube.com/embed/0ubcUGV-_U0?si=tm_ug-RGsqvGAESV",
@@ -220,6 +227,7 @@
         {
             "id": "vid_8",
             "tag": "AngelLiza",
+            "language": "Bhojpuri",
             "title": "आम के स्वाद - Angel Liza",
             "platform": "Youtube",
             "embedLink": "https://www.youtube.com/embed/kAK2xJH0a9g?si=zaqmMdG9yvODj7Ag",
@@ -251,6 +259,7 @@
         {
             "id": "vid_9",
             "tag": "AngelLiza",
+            "language": "Bhojpuri",
             "title": "बलमुआ मारे लागल - Angel Liza",
             "platform": "Youtube",
             "embedLink": "https://www.youtube.com/embed/jEZEpK4F1aY?si=UyujypQDPj_XutQU",
@@ -282,6 +291,7 @@
         {
             "id": "vid_9",
             "tag": "ManishaJha",
+            "language": "Bhojpuri",
             "title": "हल्का साउंड - Manisha Jha",
             "platform": "Youtube",
             "embedLink": "https://www.youtube.com/embed/MCk0TTaN4IA?si=rHHEarEAZswxjOUW",
@@ -313,6 +323,7 @@
         {
             "id": "vid_10",
             "tag": "ManishaJha",
+            "language": "Bhojpuri",
             "title": "Duno Baloon Dhuk Dhuk Kare - Manisha Jha",
             "platform": "Youtube",
             "embedLink": "https://www.youtube.com/embed/BMMwuwVSng0?si=Nc4MwGfIJ31SWdwT",
@@ -344,6 +355,7 @@
         {
             "id": "vid_11",
             "tag": "TrishaKar",
+            "language": "Bhojpuri",
             "title": "ए राजा जाई ना बहरिया - Trisha Kar",
             "platform": "Youtube",
             "embedLink": "https://www.youtube.com/embed/SIN7UQJNNg8?si=aAOxgP_JFmWcB_vV",
@@ -375,6 +387,7 @@
         {
             "id": "vid_12",
             "tag": "KajalRaghwani",
+            "language": "Bhojpuri",
             "title": "बबुआन - Kajal Raghwani",
             "platform": "Youtube",
             "embedLink": "https://www.youtube.com/embed/Un5qbpVOPxg?si=3A05Knd5Zot3TwHR",
@@ -394,6 +407,454 @@
             "copyrightInfo": {
                 "owner": "https://www.youtube.com/@pkmusicofficial9577",
                 "license": "PK MUSIC OFFICIAL",
+                "contact": "Unknown"
+            },
+            "metadata": {
+                "uploadedDate": "Unknown",
+                "views": 0,
+                "likes": 0,
+                "duration": "Unknown"
+            }
+        },
+        {
+            "id": "vid_13",
+            "tag": "MissMisti",
+            "language": "Bengali",
+            "title": "Jabar Belai Dekha Holo - Miss Misti",
+            "platform": "Youtube",
+            "embedLink": "https://www.youtube.com/embed/afjFw1I5CdE?si=0dIWnXikVraYC9vt",
+            "directLink": "https://www.youtube.com/watch?v=afjFw1I5CdE",
+            "description": "Jabar Belai Dekha Holo - Miss Misti",
+            "song": {
+                "title": "Jabar Belai Dekha Holo",
+                "artist": "",
+                "album": "",
+                "releaseDate": ""
+            },
+            "tags": [
+                "dance",
+                "Bengali",
+                "performance"
+            ],
+            "copyrightInfo": {
+                "owner": "https://www.youtube.com/@DishaStudioLive",
+                "license": "Disha Studio Live",
+                "contact": "Unknown"
+            },
+            "metadata": {
+                "uploadedDate": "Unknown",
+                "views": 0,
+                "likes": 0,
+                "duration": "Unknown"
+            }
+        },
+        {
+            "id": "vid_14",
+            "tag": "Maya",
+            "language": "Bengali",
+            "title": "biye bari dance - Miss Maya",
+            "platform": "Youtube",
+            "embedLink": "https://www.youtube.com/embed/afjFw1I5CdE?si=0dIWnXikVraYC9vt",
+            "directLink": "https://www.youtube.com/watch?v=afjFw1I5CdE",
+            "description": "biye bari dance - Miss Maya",
+            "song": {
+                "title": "biye bari dance",
+                "artist": "",
+                "album": "",
+                "releaseDate": ""
+            },
+            "tags": [
+                "dance",
+                "Bengali",
+                "performance"
+            ],
+            "copyrightInfo": {
+                "owner": "https://www.youtube.com/@BDDance1191",
+                "license": "Bd Dance1",
+                "contact": "Unknown"
+            },
+            "metadata": {
+                "uploadedDate": "Unknown",
+                "views": 0,
+                "likes": 0,
+                "duration": "Unknown"
+            }
+        },
+        {
+            "id": "vid_15",
+            "tag": "MissMisti",
+            "language": "Bengali",
+            "title": "Mazic_mamuni - Miss Misti",
+            "platform": "Youtube",
+            "embedLink": "https://www.youtube.com/embed/Byb2-HMPe0U?si=ordY3k2Po8a2w7tF",
+            "directLink": "https://www.youtube.com/watch?v=Byb2-HMPe0U",
+            "description": "Mazic_mamuni - Miss Misti",
+            "song": {
+                "title": "Mazic_mamuni",
+                "artist": "",
+                "album": "",
+                "releaseDate": ""
+            },
+            "tags": [
+                "dance",
+                "Bengali",
+                "performance"
+            ],
+            "copyrightInfo": {
+                "owner": "https://www.youtube.com/@arupdanceacademy2113",
+                "license": "Arup Dance Academy",
+                "contact": "Unknown"
+            },
+            "metadata": {
+                "uploadedDate": "Unknown",
+                "views": 0,
+                "likes": 0,
+                "duration": "Unknown"
+            }
+        },
+        {
+            "id": "vid_16",
+            "tag": "MissShathi",
+            "language": "Bengali",
+            "title": "Mon kore ton ton ton - Miss Shathi",
+            "platform": "Youtube",
+            "embedLink": "https://www.youtube.com/embed/RYnYjkXqgkA?si=Xk8_-2ys_fndEg_u",
+            "directLink": "https://www.youtube.com/watch?v=RYnYjkXqgkA",
+            "description": "Mon kore ton ton ton - Miss Shathi",
+            "song": {
+                "title": "Mon kore ton ton ton",
+                "artist": "",
+                "album": "",
+                "releaseDate": ""
+            },
+            "tags": [
+                "dance",
+                "Bengali",
+                "performance"
+            ],
+            "copyrightInfo": {
+                "owner": "https://www.youtube.com/@arupdanceacademy2113",
+                "license": "Arup Dance Academy",
+                "contact": "Unknown"
+            },
+            "metadata": {
+                "uploadedDate": "Unknown",
+                "views": 0,
+                "likes": 0,
+                "duration": "Unknown"
+            }
+        },
+        {
+            "id": "vid_17",
+            "tag": "MissRimi",
+            "language": "Bengali",
+            "title": "Aug_lagi_dil_me_to - Miss Rimi",
+            "platform": "Youtube",
+            "embedLink": "https://www.youtube.com/embed/RVs0JOnHPMQ?si=WOD1LoYjCq7_IORG",
+            "directLink": "https://www.youtube.com/watch?v=RVs0JOnHPMQ",
+            "description": "Aug_lagi_dil_me_to - Miss Rimi",
+            "song": {
+                "title": "Aug_lagi_dil_me_to",
+                "artist": "",
+                "album": "",
+                "releaseDate": ""
+            },
+            "tags": [
+                "dance",
+                "Bengali",
+                "performance"
+            ],
+            "copyrightInfo": {
+                "owner": "https://www.youtube.com/@arupdanceacademy2113",
+                "license": "Arup Dance Academy",
+                "contact": "Unknown"
+            },
+            "metadata": {
+                "uploadedDate": "Unknown",
+                "views": 0,
+                "likes": 0,
+                "duration": "Unknown"
+            }
+        },
+        {
+            "id": "vid_18",
+            "tag": "GullMashal",
+            "language": "Hindi",
+            "title": "Qayyamat Qayyamat - Gull Mashal",
+            "platform": "Youtube",
+            "embedLink": "https://www.youtube.com/embed/Lgck5JaKbbk?si=_JglkWi8g3ycCTHd",
+            "directLink": "https://www.youtube.com/watch?v=Lgck5JaKbbk&list=PLQ5jY-ELSEWk7srBmyF1vLjXpt4pv-P2T",
+            "description": "Qayyamat Qayyamat - Gull Mashal",
+            "song": {
+                "title": "Qayyamat Qayyamat",
+                "artist": "",
+                "album": "",
+                "releaseDate": ""
+            },
+            "tags": [
+                "dance",
+                "Hindi",
+                "performance"
+            ],
+            "copyrightInfo": {
+                "owner": "https://www.youtube.com/@ShaheenStudioPakistan",
+                "license": "Shaheen Studio Pak",
+                "contact": "Unknown"
+            },
+            "metadata": {
+                "uploadedDate": "Unknown",
+                "views": 0,
+                "likes": 0,
+                "duration": "Unknown"
+            }
+        },
+        {
+            "id": "vid_19",
+            "tag": "",
+            "language": "Hindi",
+            "title": "दीवानी मैं दीवानी सजन की दीवानी",
+            "platform": "Youtube",
+            "embedLink": "https://www.youtube.com/embed/AtGXXvhOCRY?si=8ilfTeZDoVDIWVwK",
+            "directLink": "https://www.youtube.com/watch?v=AtGXXvhOCRY",
+            "description": "दीवानी मैं दीवानी सजन की दीवानी",
+            "song": {
+                "title": "Qayyamat Qayyamat",
+                "artist": "",
+                "album": "",
+                "releaseDate": ""
+            },
+            "tags": [
+                "dance",
+                "Hindi",
+                "performance"
+            ],
+            "copyrightInfo": {
+                "owner": "https://www.youtube.com/@NishuVlog",
+                "license": "Nishu vlog",
+                "contact": "Unknown"
+            },
+            "metadata": {
+                "uploadedDate": "Unknown",
+                "views": 0,
+                "likes": 0,
+                "duration": "Unknown"
+            }
+        },
+        {
+            "id": "vid_20",
+            "tag": "ViralGirlKajal",
+            "language": "Hindi",
+            "title": "टिंकू जिया - Viral Girl Kajal",
+            "platform": "Youtube",
+            "embedLink": "https://www.youtube.com/embed/u_WwR1guW4M?si=-GNtGQPjAjx4EIrj",
+            "directLink": "https://www.youtube.com/watch?v=u_WwR1guW4M",
+            "description": "टिंकू जिया - Viral Girl Kajal",
+            "song": {
+                "title": "टिंकू जिया",
+                "artist": "",
+                "album": "",
+                "releaseDate": ""
+            },
+            "tags": [
+                "dance",
+                "Hindi",
+                "performance"
+            ],
+            "copyrightInfo": {
+                "owner": "https://www.youtube.com/@lahariyajunction",
+                "license": "Lahariya Junction",
+                "contact": "Unknown"
+            },
+            "metadata": {
+                "uploadedDate": "Unknown",
+                "views": 0,
+                "likes": 0,
+                "duration": "Unknown"
+            }
+        },
+        {
+            "id": "vid_21",
+            "tag": "Aishwarya",
+            "language": "Hindi",
+            "title": "दिल का क्या करें साहिब हम उसे पर मरते हैं - Aishwarya",
+            "platform": "Youtube",
+            "embedLink": "https://www.youtube.com/embed/2JLKf7X7OIY?si=Xli8dUb5dgBrJg_-",
+            "directLink": "https://www.youtube.com/watch?v=2JLKf7X7OIY",
+            "description": "दिल का क्या करें साहिब हम उसे पर मरते हैं - Aishwarya",
+            "song": {
+                "title": "दिल का क्या करें साहिब हम उसे पर मरते हैं",
+                "artist": "",
+                "album": "",
+                "releaseDate": ""
+            },
+            "tags": [
+                "dance",
+                "Hindi",
+                "performance"
+            ],
+            "copyrightInfo": {
+                "owner": "https://www.youtube.com/@lahariyajunction",
+                "license": "Lahariya Junction",
+                "contact": "Unknown"
+            },
+            "metadata": {
+                "uploadedDate": "Unknown",
+                "views": 0,
+                "likes": 0,
+                "duration": "Unknown"
+            }
+        },
+        {
+            "id": "vid_22",
+            "tag": "",
+            "language": "Haryanavi",
+            "title": "नजर लगी है जाने किसको मेरे प्यार को",
+            "platform": "Youtube",
+            "embedLink": "https://www.youtube.com/embed/mkjwmRj9xxs?si=wksPyKu5PnezR50F",
+            "directLink": "https://www.youtube.com/watch?v=mkjwmRj9xxs",
+            "description": "नजर लगी है जाने किसको मेरे प्यार को",
+            "song": {
+                "title": "नजर लगी है जाने किसको मेरे प्यार को",
+                "artist": "Ranjeet Gurjar",
+                "album": "",
+                "releaseDate": ""
+            },
+            "tags": [
+                "dance",
+                "Haryanavi",
+                "performance"
+            ],
+            "copyrightInfo": {
+                "owner": "https://www.youtube.com/@rsgmixing650",
+                "license": "Muskan Music",
+                "contact": "Unknown"
+            },
+            "metadata": {
+                "uploadedDate": "Unknown",
+                "views": 0,
+                "likes": 0,
+                "duration": "Unknown"
+            }
+        },
+        {
+            "id": "vid_23",
+            "tag": "",
+            "language": "Haryanavi",
+            "title": "ओ मेरे राजा बाहों में आजा",
+            "platform": "Youtube",
+            "embedLink": "https://www.youtube.com/embed/ozm7PiUtruc?si=28QpufA424qsUzuT",
+            "directLink": "https://www.youtube.com/watch?v=ozm7PiUtruc",
+            "description": "ओ मेरे राजा बाहों में आजा",
+            "song": {
+                "title": "ओ मेरे राजा बाहों में आजा",
+                "artist": "Ranjeet Gurjar",
+                "album": "",
+                "releaseDate": ""
+            },
+            "tags": [
+                "dance",
+                "Haryanavi",
+                "performance"
+            ],
+            "copyrightInfo": {
+                "owner": "https://www.youtube.com/@rsgmixing650",
+                "license": "Muskan Music",
+                "contact": "Unknown"
+            },
+            "metadata": {
+                "uploadedDate": "Unknown",
+                "views": 0,
+                "likes": 0,
+                "duration": "Unknown"
+            }
+        },
+        {
+            "id": "vid_24",
+            "tag": "",
+            "language": "Haryanavi",
+            "title": "Goli Chal Javegi",
+            "platform": "Youtube",
+            "embedLink": "https://www.youtube.com/embed/5owygRmBFEY?si=szN8ZMtq_0njpqvj",
+            "directLink": "https://www.youtube.com/watch?v=5owygRmBFEY",
+            "description": "Goli Chal Javegi",
+            "song": {
+                "title": "Goli Chal Javegi",
+                "artist": "",
+                "album": "",
+                "releaseDate": ""
+            },
+            "tags": [
+                "dance",
+                "Haryanavi",
+                "performance"
+            ],
+            "copyrightInfo": {
+                "owner": "https://www.youtube.com/@pravikteam",
+                "license": "Pravik Team",
+                "contact": "Unknown"
+            },
+            "metadata": {
+                "uploadedDate": "Unknown",
+                "views": 0,
+                "likes": 0,
+                "duration": "Unknown"
+            }
+        },
+        {
+            "id": "vid_25",
+            "tag": "",
+            "language": "Haryanavi",
+            "title": "Thumka Lakh Lakh Ka",
+            "platform": "Youtube",
+            "embedLink": "https://www.youtube.com/embed/phWJ0V7VcLA?si=Q67HyTqMb4MHOcMi",
+            "directLink": "https://www.youtube.com/watch?v=5owygRmBFEY",
+            "description": "Thumka Lakh Lakh Ka",
+            "song": {
+                "title": "Thumka Lakh Lakh Ka",
+                "artist": "",
+                "album": "",
+                "releaseDate": ""
+            },
+            "tags": [
+                "dance",
+                "Haryanavi",
+                "performance"
+            ],
+            "copyrightInfo": {
+                "owner": "https://www.youtube.com/@sonotekragni7838",
+                "license": "Sonotek Ragni",
+                "contact": "Unknown"
+            },
+            "metadata": {
+                "uploadedDate": "Unknown",
+                "views": 0,
+                "likes": 0,
+                "duration": "Unknown"
+            }
+        },
+        {
+            "id": "vid_26",
+            "tag": "",
+            "language": "Haryanavi",
+            "title": "हट जा ताऊ पाछे नै",
+            "platform": "Youtube",
+            "embedLink": "https://www.youtube.com/embed/6DHW8K-wfnQ?si=os6IgWddEwE8OBhl",
+            "directLink": "https://www.youtube.com/watch?v=6DHW8K-wfnQ",
+            "description": "हट जा ताऊ पाछे नै",
+            "song": {
+                "title": "हट जा ताऊ पाछे नै",
+                "artist": "",
+                "album": "",
+                "releaseDate": ""
+            },
+            "tags": [
+                "dance",
+                "Haryanavi",
+                "performance"
+            ],
+            "copyrightInfo": {
+                "owner": "https://www.youtube.com/@devyaduvanshi5058",
+                "license": "dev yaduvanshi songs ",
                 "contact": "Unknown"
             },
             "metadata": {

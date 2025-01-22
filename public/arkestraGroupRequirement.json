@@ -1,0 +1,104 @@
+{
+    "id": "group_1",
+    "name": "Chand Babu Arkestra",
+    "location": "Patna, Bihar",
+    "tag": "ChandBabuArkestra",
+    "logo": "https://example.com/images/chand_babu_logo.jpg",
+    "description": {
+      "short": "Chand Babu Arkestra is a leading Bhojpuri performance group known for its electrifying stage shows.",
+      "long": "Chand Babu Arkestra has been entertaining audiences across Bihar and neighboring states with their energetic performances. The group is known for its talented performers, vibrant costumes, and memorable stage setups. With over 500 shows to their name, they have become a household name in the Bhojpuri Arkestra culture."
+    },
+    "socialLinks": {
+      "youtube": "https://www.youtube.com/@chandbabuarchestra",
+      "instagram": "https://www.instagram.com/chandbabuarkestraofficial",
+      "facebook": "https://www.facebook.com/chandbabuarkestra"
+    },
+    "media": {
+      "featuredVideos": [
+        {
+          "id": "vid_20",
+          "title": "Top Performance by Chand Babu Arkestra",
+          "platform": "YouTube",
+          "embedLink": "https://www.youtube.com/embed/xyz123",
+          "directLink": "https://www.youtube.com/watch?v=xyz123",
+          "description": "A breathtaking performance by the Chand Babu Arkestra group during a festival in Patna.",
+          "views": 1000000,
+          "likes": 50000,
+          "duration": "5:30",
+          "uploadDate": "2025-01-01"
+        }
+      ],
+      "gallery": [
+        {
+          "id": "img_10",
+          "url": "https://example.com/images/performance_1.jpg",
+          "caption": "Chand Babu Arkestra performing live at a cultural festival."
+        },
+        {
+          "id": "img_11",
+          "url": "https://example.com/images/performance_2.jpg",
+          "caption": "Backstage moments with Chand Babu Arkestra."
+        }
+      ]
+    },
+    "performers": [
+      {
+        "id": "perf_6",
+        "name": "Trisha Kar",
+        "profilePicture": "https://scontent.fhyd10-1.fna.fbcdn.net/v/t39.30808-6/260707054_287357116642315_5021163161037437731_n.jpg",
+        "role": "Lead Dancer",
+        "socialLinks": {
+          "youtube": "https://www.youtube.com/@trishastyle5634",
+          "instagram": "https://www.instagram.com/trishakarmadhuofficial/?hl=en"
+        }
+      },
+      {
+        "id": "perf_7",
+        "name": "Kajal Raj",
+        "profilePicture": "https://example.com/images/kajal_raj.jpg",
+        "role": "Lead Singer",
+        "socialLinks": {
+          "youtube": "https://www.youtube.com/@kajalrajofficial",
+          "instagram": "https://www.instagram.com/kajalrajofficial/"
+        }
+      }
+    ],
+    "performanceStats": {
+      "totalShows": 500,
+      "regionsCovered": ["Bihar", "Uttar Pradesh", "Jharkhand"],
+      "mostPopularPerformance": {
+        "title": "Bhojpuri Night Special - Chand Babu Arkestra",
+        "views": 2000000
+      }
+    },
+    "contactInfo": {
+      "email": "contact@chandbabuarchestra.com",
+      "phone": "+91-9876543210",
+      "bookingLink": "https://example.com/booking/chandbabuarkestra"
+    },
+    "fanEngagement": {
+      "testimonials": [
+        "Chand Babu Arkestra's performances are a visual treat!",
+        "Their energy and coordination are unmatched."
+      ],
+      "followers": {
+        "youtube": 2000000,
+        "instagram": 1200000,
+        "facebook": 800000
+      }
+    },
+    "upcomingEvents": [
+      {
+        "id": "event_2",
+        "title": "Bhojpuri Night Extravaganza",
+        "date": "2025-02-15",
+        "location": "Varanasi, Uttar Pradesh",
+        "description": "A grand cultural evening featuring Chand Babu Arkestra."
+      }
+    ],
+    "metadata": {
+      "createdAt": "2025-01-21",
+      "updatedAt": "2025-01-21"
+    }
+  }
+  

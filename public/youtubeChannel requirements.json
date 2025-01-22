@@ -1,0 +1,30 @@
+{
+    "id": "channel_1",
+    "name": "Orkesta Lovers",
+    "profilePicture": "https://example.com/images/orkesta_lovers_logo.jpg",
+    "channelURL": "https://www.youtube.com/@orkestalovers",
+    "description": "A channel dedicated to showcasing the best Bhojpuri Arkestra performances and trending videos.",
+    "subscribers": 500000,
+    "totalViews": 100000000,
+    "popularVideos": [
+      {
+        "id": "vid_1",
+        "title": "Top Bhojpuri Arkestra Dance Performance",
+        "videoURL": "https://www.youtube.com/watch?v=abc123",
+        "views": 2000000,
+        "uploadDate": "2025-01-01"
+      },
+      {
+        "id": "vid_2",
+        "title": "Best Stage Show of 2025",
+        "videoURL": "https://www.youtube.com/watch?v=xyz456",
+        "views": 1500000,
+        "uploadDate": "2024-12-15"
+      }
+    ],
+    "metadata": {
+      "createdAt": "2025-01-21",
+      "updatedAt": "2025-01-21"
+    }
+  }
+  

@@ -39,4 +39,52 @@
     color: #e63946; /* Optional: Add a vibrant color */
     text-align: left; /* Center-align the name */
   }
+
+
+  /* Language Wise Container */
+.language-wise-container {
+  font-family: 'Poppins', sans-serif;
+  color: #444;
+  line-height: 1.6;
+}
+
+/* Header Section */
+.language-header {
+  background: linear-gradient(135deg, #ff7e5f, #feb47b);
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+  position: relative;
+  overflow: hidden;
+}
+
+.language-hero-overlay {
+  position: relative;
+  z-index: 2;
+}
+
+.language-hero-title {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-transform: capitalize;
+}
+
+.language-hero-subtitle {
+  font-size: 1.5rem;
+  font-style: italic;
+  opacity: 0.9;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .language-hero-title {
+    font-size: 2rem;
+  }
+
+  .language-hero-subtitle {
+    font-size: 1.2rem;
+  }
+}
+
   

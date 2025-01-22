@@ -1,38 +1,102 @@
-
+/* Container styling */
 .arkestra-container {
-    font-family: Arial, sans-serif;
-    margin: 20px auto;
-    max-width: 800px;
+    font-family: 'Poppins', sans-serif;
     line-height: 1.6;
-    padding: 30px;
-}
-
-.arkestra-header {
+    color: #444;
+    background-color: #f8f9fa;
+  }
+  
+  /* Hero Section */
+  .arkestra-header {
+    background: linear-gradient(135deg, #ff7e5f, #feb47b);
+    color: white;
     text-align: center;
-    background-color: #f8f8f8;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.arkestra-section {
-    background-color: #ffffff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin-top: 20px;
-}
-
-.arkestra-section h2 {
-    border-bottom: 2px solid #f0f0f0;
-    padding-bottom: 10px;
-}
-
-.arkestra-section ul {
-    margin-top: 10px;
-    padding-left: 20px;
-}
-
-.arkestra-section ul li {
+    padding: 100px 20px;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .hero-overlay {
+    position: relative;
+    z-index: 2;
+  }
+  
+  .hero-title {
+    font-size: 3rem;
+    font-weight: bold;
     margin-bottom: 10px;
-}
+  }
+  
+  .hero-subtitle {
+    font-size: 1.5rem;
+    font-style: italic;
+    opacity: 0.9;
+  }
+  
+  /* Section Styling */
+  .arkestra-section {
+    padding: 50px 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin: -60px auto 0;
+    max-width: 800px;
+  }
+  
+  .content-wrapper {
+    padding: 20px;
+  }
+  
+  .section-title {
+    font-size: 2rem;
+    color: #ff7e5f;
+    margin-bottom: 20px;
+  }
+  
+  .section-description {
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  /* Features Styling */
+  .features-title {
+    font-size: 1.6rem;
+    margin-bottom: 15px;
+    color: #444;
+  }
+  
+  .features-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .features-list li {
+    margin-bottom: 15px;
+    padding-left: 25px;
+    position: relative;
+  }
+  
+  .features-list li::before {
+    content: '✔';
+    color: #ff7e5f;
+    position: absolute;
+    left: 0;
+    top: 2px;
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .hero-title {
+      font-size: 2rem;
+    }
+  
+    .hero-subtitle {
+      font-size: 1.2rem;
+    }
+  
+    .section-title {
+      font-size: 1.8rem;
+    }
+  }
+  

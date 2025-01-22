@@ -3,8 +3,19 @@ import '../allCss/ProfileHeader.css';
 import Card from 'react-bootstrap/Card';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebook, faInstagram, faYoutube } from '@fortawesome/free-brands-svg-icons';
+import '../allCss/ArkestraHomeCss.css';
 
 const PerformerProfileHeader = ({ performer }) => {
+
+  const getImage = (imageName) => {
+    try {
+      return require(`../assets/images/${imageName}`);
+    } catch (error) {
+      console.error('Image not found:', imageName);
+    //   return require('../assets/images/default.png'); // Fallback image
+    }
+  };
+
   return (
     <div>
       <section className="section about-section gray-bg" id="about">
@@ -49,10 +60,10 @@ const PerformerProfileHeader = ({ performer }) => {
               </div>
             </div>
             <div className="col-lg-6">
-              <Card border="danger" style={{ height:'30' , width: '30rem' }}>
+              <Card border="danger" style={{ height:'50' , width: '30rem' }}>
                 <Card.Img
                   variant="top"
-                  src={performer.profilePicture}
+                  src={getImage(performer.profilePicture)}
                   alt={performer.name}
                   className="category-image"
                 />
