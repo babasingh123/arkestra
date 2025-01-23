@@ -5,7 +5,7 @@
   
   .news-card {
     background: #fff;
-    border: 2px solid #007bff;
+    border: 2px solid #02152a;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 15px;
@@ -15,7 +15,7 @@
   
   .news-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 6px 12px rgba(99, 3, 3, 0.2);
     border-color: #0056b3;
   }
   
@@ -39,7 +39,7 @@
   }
   
   .news-card a {
-    color: #007bff;
+    color: #021324;
     text-decoration: none;
     font-weight: bold;
   }

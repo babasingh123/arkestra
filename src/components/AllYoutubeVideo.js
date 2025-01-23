@@ -29,8 +29,21 @@ const AllYoutubeVideo = () => {
   }, []);
 
   return (
+    <div>
+      <header className="language-header">
+  <div className="language-hero-overlay">
+    <h1 className="language-hero-title">Top Arkestra Videos</h1>
+    <p className="language-hero-subtitle">
+      Explore the most popular and trending Arkestra videos from across the region, showcasing breathtaking performances.
+    </p>
+    <p className="language-hero-subtitle">
+      पूरे क्षेत्र के सबसे लोकप्रिय और ट्रेंडिंग आर्केस्ट्रा वीडियो का आनंद लें, जो अद्भुत प्रदर्शन को प्रदर्शित करते हैं।
+    </p>
+  </div>
+</header>
+
     <Container>
-      <h2 className="mb-4" style={{ margin: '35px 0px', marginTop: '90px' }}>
+      <h2 className="mb-4" style={{ margin: '35px 0px', marginTop: '30px' }}>
         All YouTube Videos
       </h2>
 
@@ -49,6 +62,7 @@ const AllYoutubeVideo = () => {
   style={{ display: 'block', width: '100%', height: '250px' }}
 /> */}
     </Container>
+    </div>
   );
 };
 

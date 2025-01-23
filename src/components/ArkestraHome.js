@@ -6,7 +6,8 @@ import AdBannerHorizontal from './AdBannerHorizontal.js';
 import LanguagePage from './LanguagePage.js';
 import VideoCard from './VideoCard';
 import TopTrendingYoutubeVideosApi from '../services/topTrendingYoutubeVideosApi';
-import NewsApi from '../services/newsApi'; // Import the News API
+import NewsApi from '../services/newsApi';
+import StoriesApi from '../services/storiesApi'; // Import Stories API
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -16,13 +17,15 @@ import NewsDefault from '../assets/images/NewsDefault.png';
 const ArkestraHome = () => {
   const [topVideos, setTopVideos] = useState([]);
   const [news, setNews] = useState([]);
+  const [stories, setStories] = useState([]);
   const [videoError, setVideoError] = useState(null);
   const [newsError, setNewsError] = useState(null);
+  const [storiesError, setStoriesError] = useState(null);
   const [loadingVideos, setLoadingVideos] = useState(false);
   const [loadingNews, setLoadingNews] = useState(false);
+  const [loadingStories, setLoadingStories] = useState(false);
 
   useEffect(() => {
-    
     const fetchTopVideos = async () => {
       setLoadingVideos(true);
       try {
@@ -47,8 +50,21 @@ const ArkestraHome = () => {
       }
     };
 
+    const fetchStories = async () => {
+      setLoadingStories(true);
+      try {
+        const data = await StoriesApi.getStories();
+        setStories(data.slice(0, 4)); // Fetch only the top 4 stories
+      } catch (error) {
+        setStoriesError('Failed to load stories');
+      } finally {
+        setLoadingStories(false);
+      }
+    };
+
     fetchTopVideos();
     fetchNews();
+    fetchStories();
   }, []);
 
   return (
@@ -123,14 +139,53 @@ const ArkestraHome = () => {
           {news.map((article) => (
             <Col key={article.id} xs={12} sm={6} md={4} lg={3} className="mb-4 d-flex">
               <div className="news-card">
-  <img src={article.image || NewsDefault} alt={article.title} className="news-image" />
-  <h4>{article.title}</h4>
-  <p>{article.description}</p>
-  <a href={article.externalLink} target="_blank" rel="noopener noreferrer">
-    Read More
-  </a>
-</div>
+                <img src={article.image || NewsDefault} alt={article.title} className="news-image" />
+                <h4>{article.title}</h4>
+                <p>{article.description}</p>
+                <a href={article.externalLink} target="_blank" rel="noopener noreferrer">
+                  Read More
+                </a>
+              </div>
+            </Col>
+          ))}
+        </Row>
+      </Container>
 
+      {/* Fancy Separator */}
+      <div className="fancy-separator">
+        <hr />
+        <span>Latest Stories</span>
+        <hr />
+      </div>
+
+      {/* Stories Section */}
+      <Container>
+        <div className="d-flex justify-content-between align-items-center mb-4" style={{ margin: '35px 0px', marginTop: '20px' }}>
+          <h2 className="m-0 d-flex align-items-center">
+            Performer Stories
+            <Link to="/allStories" style={{ marginLeft: '15px' }}>
+              <button className="btn btn-outline-primary">View All</button>
+            </Link>
+          </h2>
+        </div>
+        {loadingStories && <div className="text-center">Loading stories...</div>}
+        {storiesError && <div style={{ color: 'red' }} className="mb-4 text-center">{storiesError}</div>}
+        <Row className="category-cards">
+          {stories.map((story) => (
+            <Col key={story.id} xs={12} sm={6} md={4} lg={3} className="mb-4 d-flex">
+              <div className="news-card">
+                <iframe
+                  width="100%"
+                  height="200"
+                  src={story.videoLink.replace("watch?v=", "embed/")}
+                  title={story.title}
+                  frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                ></iframe>
+                <h4>{story.title}</h4>
+                <p>{story.description}</p>
+              </div>
             </Col>
           ))}
         </Row>

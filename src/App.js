@@ -11,6 +11,7 @@ import PageNotFound from './components/PageNotFound.js'; // Optional 404 page
 import ArkestraInfo from './components/ArkestraInfo.js';
 import LanguageWise from './components/LanguageWise.js';
 import AllNews from './components/AllNews.js';
+import AllStories from './components/AllStories.js';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
             <Route path="/arkestra" element={<ArkestraInfo />} />
             <Route path="/languages/:language" element={<LanguageWise />} />
             <Route path="/allNews" element={<AllNews />} />
+            <Route path="/allStories" element={<AllStories />} />
             <Route path="*" element={<PageNotFound />} />
           </Routes>
         </main>

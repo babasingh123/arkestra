@@ -28,8 +28,21 @@ const AllNews = () => {
   }, []);
 
   return (
+    <div>
+      <header className="language-header">
+    <div className="language-hero-overlay">
+      <h1 className="language-hero-title">Arkestra News and Updates</h1>
+      <p className="language-hero-subtitle">
+        Stay updated with the latest news, events, and stories from the vibrant world of Arkestra culture.
+      </p>
+      <p className="language-hero-subtitle">
+        आर्केस्ट्रा संस्कृति की रंगीन दुनिया से नवीनतम समाचार, कार्यक्रमों और कहानियों के साथ जुड़े रहें।
+      </p>
+    </div>
+  </header>
+  
     <Container className="all-news-container">
-       <h2 className="mb-4" style={{ margin: '35px 0px', marginTop: '90px' }}>
+       <h2 className="mb-4" style={{ margin: '35px 0px', marginTop: '30px' }}>
         All News
       </h2>
       {loading && <div className="text-center">Loading news...</div>}
@@ -53,6 +66,7 @@ const AllNews = () => {
         ))}
       </Row>
     </Container>
+    </div>
   );
 };
 
