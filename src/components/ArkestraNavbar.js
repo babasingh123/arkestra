@@ -23,7 +23,7 @@ const ArkestraNavbar = () => {
         <Navbar.Collapse id="navbarScroll">
           <Nav
             className="me-auto my-2 my-lg-0"
-            style={{ maxHeight: '100px' }}
+            style={{ maxHeight: '100px', gap: '30px' }} // Added gap property
             navbarScroll
           >
             <Nav.Link as={Link} to="/" className="navbar-link">Home</Nav.Link>
@@ -32,7 +32,7 @@ const ArkestraNavbar = () => {
             <Nav.Link as={Link} to="/arkestra" className="navbar-link">What is Arkestra</Nav.Link>
             <Nav.Link as={Link} to="/about" className="navbar-link">About</Nav.Link>
           </Nav>
-          <Form className="d-flex">
+          {/* <Form className="d-flex">
             <Form.Control
               type="search"
               placeholder="Search"
@@ -40,7 +40,7 @@ const ArkestraNavbar = () => {
               aria-label="Search"
             />
             <Button variant="outline-success">Search</Button>
-          </Form>
+          </Form> */}
         </Navbar.Collapse>
       </Container>
     </Navbar>

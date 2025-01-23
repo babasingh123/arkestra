@@ -4,11 +4,12 @@
     line-height: 1.6;
     color: #444;
     background-color: #f8f9fa;
+    margin-top: 55px;
   }
   
   /* Hero Section */
   .arkestra-header {
-    background: linear-gradient(135deg, #ff7e5f, #feb47b);
+    background: linear-gradient(to right, #ffafbd, #ffc3a0);
     color: white;
     text-align: center;
     padding: 100px 20px;

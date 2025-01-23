@@ -24,7 +24,7 @@ const LanguagePage = () => {
               style={{
                 width: '300px',
                 height: '200px',
-                background: 'linear-gradient(135deg, #f6d365 0%, #fda085 100%)',
+                background: 'linear-gradient(135deg,  #ffafbd 0%, #ffc3a0 100%)',
                 color: 'white',
                 borderRadius: '10px',
                 boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)',
