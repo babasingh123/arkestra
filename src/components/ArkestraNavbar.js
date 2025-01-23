@@ -6,6 +6,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import { Link } from 'react-router-dom'; // Import Link from React Router
 import logo from '../assets/images/logo.png';
+import '../allCss/ArkestraNavbar.css';
 
 const ArkestraNavbar = () => {
   return (
@@ -25,11 +26,11 @@ const ArkestraNavbar = () => {
             style={{ maxHeight: '100px' }}
             navbarScroll
           >
-            <Nav.Link as={Link} to="/">Home</Nav.Link>
-            <Nav.Link as={Link} to="/allVideos">Videos</Nav.Link>
-            <Nav.Link as={Link} to="/allNews">News</Nav.Link>
-            <Nav.Link as={Link} to="/arkestra">What is Arkestra</Nav.Link>
-            <Nav.Link as={Link} to="/about">About</Nav.Link>
+            <Nav.Link as={Link} to="/" className="navbar-link">Home</Nav.Link>
+            <Nav.Link as={Link} to="/allVideos" className="navbar-link">Videos</Nav.Link>
+            <Nav.Link as={Link} to="/allNews" className="navbar-link">News</Nav.Link>
+            <Nav.Link as={Link} to="/arkestra" className="navbar-link">What is Arkestra</Nav.Link>
+            <Nav.Link as={Link} to="/about" className="navbar-link">About</Nav.Link>
           </Nav>
           <Form className="d-flex">
             <Form.Control

@@ -1,18 +1,37 @@
-.square {
+.language-card {
+    width: 300px;
+    height: 200px;
+    background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     display: flex;
-    width: 100px;
-    height: 100px;
-    background-color:aquamarine;
-  }
-  
-  .circle {
-    display: flex;
-    width: 100px;
-    height: 100px;
-    border-radius: 100%;
-    border-color:aquamarine;
-  }
-  
-  .text {
+    justify-content: center;
+    align-items: center;
     margin: auto;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
+  
+  .language-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  }
+  
+  .card-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .card-content span {
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+    text-align: center;
+  }
+
+  
+  

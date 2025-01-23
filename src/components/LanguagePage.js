@@ -16,7 +16,7 @@ const LanguagePage = () => {
 
   return (
     <Container>
-         <h2 className="mb-4" style={{ margin: '35px 0px', marginTop: '10px' }}>Watch in your Language</h2> 
+      <h2 className="mb-4" style={{ margin: '35px 0px', marginTop: '10px' }}>Watch in your Language</h2> 
       <Row>
         {languages.map((language) => (
           <Col key={language} xs={12} sm={6} md={4} lg={3} className="mb-4">
@@ -33,8 +33,17 @@ const LanguagePage = () => {
                 alignItems: 'center',
                 margin: 'auto',
                 cursor: 'pointer',
+                transition: 'transform 0.3s ease, box-shadow 0.3s ease', // Added transition for hover effect
               }}
               onClick={() => handleCardClick(language)}
+              onMouseEnter={(e) => {
+                e.currentTarget.style.transform = 'translateY(-5px)';
+                e.currentTarget.style.boxShadow = '0 6px 12px rgba(0, 0, 0, 0.3)';
+              }}
+              onMouseLeave={(e) => {
+                e.currentTarget.style.transform = 'translateY(0)';
+                e.currentTarget.style.boxShadow = '0 4px 8px rgba(0, 0, 0, 0.2)';
+              }}
             >
               <div
                 style={{

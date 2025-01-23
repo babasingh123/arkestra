@@ -1,0 +1,14 @@
+
+    .navbar-link {
+    color: #333 !important; /* Set to black or grey */
+    text-decoration: none; /* Remove underline */
+    font-weight: 500; /* Slightly bold font */
+    transition: color 0.3s ease; /* Smooth transition for hover effect */
+  }
+  
+  .navbar-link:hover {
+    color: #555 !important; /* Darker grey on hover */
+    text-decoration: underline; /* Optional hover underline */
+    font-weight: 600; /* Bolder font on hover */
+  }
+  

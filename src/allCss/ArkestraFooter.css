@@ -1,0 +1,11 @@
+.footer-link {
+    color: #333 !important; /* Set to black or grey */
+    text-decoration: none; /* Remove underline */
+    transition: color 0.3s ease; /* Smooth transition for hover effect */
+  }
+  
+  .footer-link:hover {
+    color: #555 !important; /* Darker grey on hover */
+    text-decoration: underline; /* Optional hover underline */
+  }
+  
